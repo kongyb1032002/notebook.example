@@ -1,0 +1,101 @@
+timestamp,level,module,message,response_time
+2025-04-15T23:45:00.830542,INFO,scheduler,API response slow,1.801
+2025-04-15T11:21:56.830542,DEBUG,scheduler,Worker started,1.667
+2025-04-16T00:24:57.830542,ERROR,db,User login failed,0.682
+2025-04-16T01:42:34.830542,WARN,worker,API response slow,0.949
+2025-04-15T11:57:24.830542,INFO,api,Permission denied,0.122
+2025-04-15T19:21:55.830542,INFO,db,API response slow,2.375
+2025-04-16T08:30:39.830542,WARN,auth,API response slow,2.106
+2025-04-15T11:41:44.830542,INFO,worker,Missing required field,0.198
+2025-04-16T11:03:39.830542,WARN,api,API response slow,0.512
+2025-04-16T03:34:25.830542,DEBUG,api,User login failed,1.082
+2025-04-15T17:10:33.830542,WARN,auth,Worker started,0.466
+2025-04-16T01:15:02.830542,INFO,scheduler,Worker started,1.249
+2025-04-16T01:07:14.830542,WARN,scheduler,Permission denied,0.997
+2025-04-15T12:43:00.830542,DEBUG,auth,Unexpected error occurred,0.621
+2025-04-16T11:09:38.830542,ERROR,api,Unexpected error occurred,1.61
+2025-04-15T09:34:33.830542,ERROR,auth,User login success,0.835
+2025-04-15T14:44:46.830542,WARN,db,Worker started,1.779
+2025-04-16T10:34:15.830542,INFO,db,Job scheduled,1.532
+2025-04-15T09:26:17.830542,INFO,api,DB connection timeout,2.428
+2025-04-15T18:59:14.830542,WARN,db,Data saved successfully,0.194
+2025-04-16T03:42:46.830542,WARN,scheduler,DB connection timeout,2.228
+2025-04-15T11:35:34.830542,WARN,api,User login failed,0.848
+2025-04-16T02:12:23.830542,ERROR,scheduler,Unexpected error occurred,1.047
+2025-04-15T11:51:09.830542,DEBUG,worker,DB connection timeout,0.577
+2025-04-16T10:47:32.830542,ERROR,worker,Job scheduled,2.265
+2025-04-16T08:45:20.830542,ERROR,db,Missing required field,1.707
+2025-04-15T13:44:20.830542,WARN,db,Data saved successfully,1.64
+2025-04-15T11:56:09.830542,INFO,db,API response slow,2.012
+2025-04-16T01:34:42.830542,DEBUG,scheduler,DB connection timeout,1.202
+2025-04-16T09:00:14.830542,DEBUG,auth,Unexpected error occurred,1.113
+2025-04-16T06:24:53.830542,INFO,api,API response slow,2.441
+2025-04-16T11:01:19.830542,WARN,api,Missing required field,1.433
+2025-04-15T22:05:25.830542,INFO,api,User login failed,2.449
+2025-04-16T09:45:57.830542,WARN,auth,Permission denied,0.966
+2025-04-16T01:08:30.830542,INFO,auth,Job scheduled,1.768
+2025-04-16T06:38:29.830542,ERROR,db,Unexpected error occurred,2.42
+2025-04-16T09:18:04.830542,ERROR,api,DB connection timeout,1.955
+2025-04-16T07:44:57.830542,INFO,worker,User login success,2.368
+2025-04-15T20:10:53.830542,ERROR,auth,User login failed,2.285
+2025-04-15T10:10:18.830542,WARN,scheduler,DB connection timeout,1.58
+2025-04-16T04:24:28.830542,WARN,scheduler,Job scheduled,1.808
+2025-04-15T21:11:24.830542,DEBUG,auth,Unexpected error occurred,0.405
+2025-04-16T07:19:23.830542,ERROR,db,User login success,0.26
+2025-04-15T09:30:55.830542,ERROR,auth,Missing required field,1.697
+2025-04-15T10:34:40.830542,INFO,db,User login failed,2.322
+2025-04-15T19:02:41.830542,DEBUG,db,Missing required field,1.781
+2025-04-15T12:26:02.830542,ERROR,db,Data saved successfully,1.575
+2025-04-15T09:20:02.830542,ERROR,api,User login failed,1.142
+2025-04-16T01:50:59.830542,INFO,worker,Permission denied,2.468
+2025-04-16T10:56:37.830542,ERROR,worker,API response slow,0.877
+2025-04-16T10:28:08.830542,INFO,auth,Job scheduled,1.355
+2025-04-15T16:44:23.830542,INFO,auth,Unexpected error occurred,0.865
+2025-04-15T15:53:25.830542,DEBUG,db,DB connection timeout,0.901
+2025-04-15T11:34:39.830542,DEBUG,auth,Worker started,2.071
+2025-04-16T05:56:16.830542,WARN,scheduler,Unexpected error occurred,0.989
+2025-04-15T12:50:35.830542,DEBUG,worker,Missing required field,2.406
+2025-04-15T08:53:56.830542,INFO,api,Unexpected error occurred,0.799
+2025-04-15T11:19:46.830542,WARN,db,Data saved successfully,0.707
+2025-04-15T14:06:34.830542,DEBUG,auth,Data saved successfully,0.676
+2025-04-15T13:22:31.830542,WARN,worker,Data saved successfully,1.937
+2025-04-15T19:32:03.830542,ERROR,auth,API response slow,0.893
+2025-04-15T12:07:12.830542,DEBUG,scheduler,Missing required field,2.182
+2025-04-15T11:40:56.830542,INFO,auth,DB connection timeout,1.031
+2025-04-15T14:59:22.830542,ERROR,worker,API response slow,0.277
+2025-04-16T01:00:50.830542,ERROR,db,Data saved successfully,0.371
+2025-04-16T06:28:28.830542,INFO,db,Data saved successfully,1.649
+2025-04-15T13:31:21.830542,INFO,api,User login success,0.948
+2025-04-16T06:37:35.830542,INFO,worker,Job scheduled,1.829
+2025-04-15T15:29:46.830542,WARN,worker,User login success,1.029
+2025-04-15T10:06:33.830542,DEBUG,api,User login success,2.067
+2025-04-15T19:58:23.830542,INFO,worker,API response slow,1.26
+2025-04-15T10:31:26.830542,DEBUG,worker,Missing required field,1.424
+2025-04-16T09:56:03.830542,DEBUG,db,Worker started,0.129
+2025-04-15T12:13:20.830542,INFO,auth,Worker started,0.717
+2025-04-16T09:58:29.830542,ERROR,auth,Job scheduled,1.197
+2025-04-15T20:52:18.830542,INFO,api,DB connection timeout,0.62
+2025-04-15T20:12:04.830542,WARN,api,Permission denied,1.445
+2025-04-16T06:43:44.830542,ERROR,db,API response slow,2.315
+2025-04-15T18:00:27.830542,DEBUG,auth,API response slow,0.126
+2025-04-16T06:07:36.830542,DEBUG,worker,API response slow,1.479
+2025-04-15T15:59:18.830542,DEBUG,auth,Permission denied,0.915
+2025-04-16T09:58:51.830542,WARN,scheduler,API response slow,2.407
+2025-04-15T14:58:38.830542,ERROR,auth,API response slow,2.136
+2025-04-16T00:08:16.830542,DEBUG,db,Missing required field,1.047
+2025-04-15T14:25:18.830542,DEBUG,api,User login success,0.328
+2025-04-15T13:22:54.830542,WARN,auth,Data saved successfully,1.479
+2025-04-15T11:04:32.830542,INFO,worker,Unexpected error occurred,1.809
+2025-04-16T02:00:18.830542,WARN,api,API response slow,0.709
+2025-04-15T21:29:47.830542,WARN,worker,Permission denied,0.218
+2025-04-16T00:01:41.830542,ERROR,auth,User login success,2.321
+2025-04-15T22:56:33.830542,INFO,api,Missing required field,1.117
+2025-04-15T22:35:50.830542,DEBUG,db,User login success,1.617
+2025-04-16T06:37:31.830542,DEBUG,db,DB connection timeout,1.863
+2025-04-15T14:00:35.830542,DEBUG,scheduler,Unexpected error occurred,0.224
+2025-04-16T08:12:21.830542,INFO,db,DB connection timeout,0.73
+2025-04-16T01:12:33.830542,DEBUG,worker,DB connection timeout,0.966
+2025-04-15T10:34:00.830542,INFO,db,API response slow,0.918
+2025-04-16T00:38:44.830542,WARN,api,API response slow,1.321
+2025-04-15T11:00:23.830542,DEBUG,auth,Worker started,0.844
+2025-04-16T04:42:36.830542,ERROR,auth,Job scheduled,2.032
